@@ -6,7 +6,7 @@ def main():
     # Configuration
     st.set_page_config(
         page_title="Durian Counter AI",
-        page_icon="🍈",
+        page_icon="🍈", page_icon="",
         layout="wide"
     )
 
